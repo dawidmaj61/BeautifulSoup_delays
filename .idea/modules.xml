@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Bytom/.idea/Bytom.iml" filepath="$PROJECT_DIR$/../Bytom/.idea/Bytom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Chorzow_Batory/.idea/Chorzow_Batory.iml" filepath="$PROJECT_DIR$/../Chorzow_Batory/.idea/Chorzow_Batory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Dabrowa_Gornicza/.idea/Dabrowa_Gornicza.iml" filepath="$PROJECT_DIR$/../Dabrowa_Gornicza/.idea/Dabrowa_Gornicza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Gliwice/.idea/Gliwice.iml" filepath="$PROJECT_DIR$/../Gliwice/.idea/Gliwice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Katowice.iml" filepath="$PROJECT_DIR$/.idea/Katowice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Myslowice/.idea/Myslowice.iml" filepath="$PROJECT_DIR$/../Myslowice/.idea/Myslowice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ruda_Slaska/.idea/Ruda_Slaska.iml" filepath="$PROJECT_DIR$/../Ruda_Slaska/.idea/Ruda_Slaska.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sosnowiec_Glowny/.idea/Sosnowiec_Glowny.iml" filepath="$PROJECT_DIR$/../Sosnowiec_Glowny/.idea/Sosnowiec_Glowny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tychy/.idea/Tychy.iml" filepath="$PROJECT_DIR$/../Tychy/.idea/Tychy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Zabrze/.idea/Zabrze.iml" filepath="$PROJECT_DIR$/../Zabrze/.idea/Zabrze.iml" />
+    </modules>
+  </component>
+</project>
