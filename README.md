@@ -55,5 +55,7 @@ cursor.execute('''CREATE TABLE IF NOT EXISTS Katowice (przewoznik text, relacja 
 </div>
 ```
 ## Result
+Preview in DBeaver.
+
 ![database](https://user-images.githubusercontent.com/57764193/142311368-f5da269e-963b-4ef2-a3d7-34d4a5b04260.png)
 
